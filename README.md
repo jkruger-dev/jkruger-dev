@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do jkruger-dev 😁
+## Bem-vindo(a) ao perfil de jkruger-dev 😁
 
  <div>
    <a href="https://github.com/devemdobro">
