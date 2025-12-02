@@ -2,9 +2,9 @@
 
  <div>
    <a href="https://github.com/devemdobro">
-   <img width="421em" height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&theme=radical&chart=bars"/>
-   <img width="421em" height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=languages"/>
-   <img width="421em" height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=contributions"/>
+   <img width="49.7%" height="180px" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&theme=radical&chart=bars"/>
+   <img width="49.7%" height="180px" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=languages&theme=radical&chart=bars"/>
+   <img width="49.7%" height="180px" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=contributions&theme=radical"/>
 </div>
  
 <br>
