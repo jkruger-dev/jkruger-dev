@@ -4,8 +4,8 @@
    <a href="https://github.com/devemdobro">
    <img width="421em" height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&theme=radical&chart=bars"/>
    <img width="421em" height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=languages"/>
-   <img height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=contributions"/>
-   <img height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=top-repos" />
+   <img width="421em" height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=contributions"/>
+   <img width="421em" height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=jkruger-dev&type=top-repos" />
 </div>
  
 <br>
